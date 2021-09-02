@@ -2,5 +2,5 @@
 	"ip":"mc.inshop.my.id",
 	"port": "25792",
 	"name": "Inshop Mc",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
